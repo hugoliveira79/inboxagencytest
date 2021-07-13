@@ -1,0 +1,44 @@
+.form fieldset {
+  padding: .35em .625em .75em;
+  margin: 0 2px;
+  border: 1px solid #c0c0c0; }
+.form li {
+  display: block;
+  float: left;
+  width: 100%; }
+.form label {
+  width: 100px;
+  display: block;
+  float: left; }
+.form input {
+  float: left; }
+
+.book-list li {
+  width: 100%;
+  float: left;
+  margin-bottom: 20px; }
+.book-list img {
+  width: 100px; }
+.book-list .title, .book-list .add-btn {
+  padding-top: 50px; }
+.book-list .add-btn {
+  cursor: pointer; }
+
+.checkout-button {
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold; }
+
+.checkout li {
+  text-align: center;
+  width: 100%;
+  float: left; }
+.checkout div {
+  text-align: center; }
+.checkout a {
+  color: #fff; }
+
+nav {
+  text-align: center; }
+
+/*# sourceMappingURL=style.css.map */

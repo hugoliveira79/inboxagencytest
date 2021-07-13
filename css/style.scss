@@ -1,0 +1,66 @@
+.form{
+	fieldset{
+		padding: .35em .625em .75em;
+    margin: 0 2px;
+    border: 1px solid #c0c0c0;
+	}
+	li{
+		display: block;
+		float: left;
+		width:100%;
+	}
+	label{
+		width:100px;
+		display:block;
+		float: left;
+	}
+	input{
+		float:left;
+	}
+}
+
+.book-list{
+	li{
+		width: 100%;
+		float: left;
+		margin-bottom:20px;
+	}
+	img{
+		width: 100px;
+	}
+
+	.title, .add-btn{
+		padding-top:50px;
+
+	}
+
+	.add-btn{
+		cursor: pointer;
+	}
+}
+
+.checkout-button{
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+}
+
+.checkout{
+	li{
+		text-align: center;
+		width: 100%;
+		float: left;
+	}
+
+	div{
+		text-align: center;
+
+	}
+	a{
+		color:#fff;
+	}
+}
+
+nav{
+	text-align:center;
+}
